@@ -19,5 +19,5 @@ https://www.mail-archive.com/shlug%40googlegroups.com/
 
 
 链接：
-[1] 活动地址： https://101.231.171.58:7443/shlug
-[2] 共享文档： https://101.231.171.58:7443/etherpad/p/shlug
+[1] 活动地址： https://jitsi.shlug.org:7443/shlug
+[2] 共享文档： https://jitsi.shlug.org:7443/etherpad/p/shlug
